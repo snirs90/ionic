@@ -145,5 +145,6 @@
   },
   "pre-push#master": [
     "test"
-  ]
+  ],
+	"main" : "dist/ionic-angular/index.js"
 }
